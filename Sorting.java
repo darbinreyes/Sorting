@@ -1,3 +1,5 @@
+// Creator: Darbin Reyes
+// Contributors: Justin Park
 //
 // Finish what you start bro.
 //
