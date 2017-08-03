@@ -1,5 +1,5 @@
 //
-// Finish what you start bro
+// Finish what you start bro.
 //
 
 public class Sorting{
